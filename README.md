@@ -33,4 +33,40 @@ It includes sections for:
 ---
 
 ## 📁 Folder Structure
+.
+├── index.html
+├── /assets
+│ ├── /css
+│ ├── /js
+│ └── /images
+└── README.md
+---
+
+## 💡 Lessons Learned
+
+- Practiced responsive design principles  
+- Gained familiarity with frontend deployment  
+- Improved understanding of clean code and accessibility  
+
+---
+
+## 🌐 Demo
+
+If still live, visit: ((https://portfolio-pi-six-u449nrh17y.vercel.app/))
+
+*(If no longer live, consider adding screenshots here instead.)*
+
+---
+
+## 🧑‍💻 Author
+
+**Vaibhav Srivastava**  
+University of Allahabad  
+
+---
+
+## ⚠️ Note
+
+This is an **old project**, kept for reference and archival purposes.  
+A newer version of my portfolio is available at: ////under processes.
 
